@@ -1,1 +1,5 @@
-图片定义：CSS source / css / _partial / navbar.styl
+* 文档
+> https://hexo.io/zh-cn/docs/
+
+* 生成文件
+  ``` hexo g ```
